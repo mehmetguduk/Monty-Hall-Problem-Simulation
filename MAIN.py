@@ -1,3 +1,6 @@
+# © The owner of this code is Mehmet Güdük.
+# © Licensed with GPL-3.0 License
+
 from random import choice, shuffle
 from time import sleep
 from os import system, name
