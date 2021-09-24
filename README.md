@@ -2,7 +2,7 @@
 
 ## How to play?
 
-- run MAIN.py . You can run no_emoji_version.py too if you have issue about emojies in the code.
+- run **MAIN.py** . You can run no_emoji_version.py too if you have issue about emojies in the code.
 - Select a game speed in range 1-5 by typing to the terminal. Gamespeed 1 is the slowest, 5 is the fastest.
 
 There will be 3 doors in the simulation. Behind the two doors there will be a goat, behind the one door there will be a car. You will try to choose the car by deciding the door that you want to choose. 
