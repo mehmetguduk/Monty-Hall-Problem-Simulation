@@ -11,7 +11,7 @@ There will be 3 doors in the simulation. Behind the two doors there will be a go
 - At the second part of the simulation, you will decide between the remaining two doors. Do you want to keep your choose or want to change it ?
 - At the third part of the simulation, you will see the inside of all doors and your result.
 
-According to the Monty Hall Problem, when you decide to change your first decision in the second part, you will have a more chance of winning the car than in the scenario where you did not change your decision.
+According to the Monty Hall Problem, when you decide to change your first decision at the second part, you will have a more chance of winning the car than in the scenario where you did not change your decision.
 
 - By typing anything other than 1, 2 or 3 at the first part, you can finish the simulation and see your results.
 
