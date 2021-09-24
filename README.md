@@ -7,13 +7,15 @@
 
 There will be 3 doors in the simulation. Behind the two doors there will be a goat, behind the one door there will be a car. You will try to choose the car by deciding the door that you want to choose. 
 
-- In the first part of the simulation, you will choose a door and the program will open another door with a goat inside. 
-- In the second part of the simulation, you will decide between the remaining two doors. Do you want to keep your choose or want to change it ?
-- In the third part of the simulation, you will see the inside of all doors and your result.
+- At the first part of the simulation, you will choose a door and the program will open another door with a goat inside. 
+- At the second part of the simulation, you will decide between the remaining two doors. Do you want to keep your choose or want to change it ?
+- At the third part of the simulation, you will see the inside of all doors and your result.
 
 According to the Monty Hall Problem, when you decide to change your first decision in the second part, you will have a more chance of winning the car than in the scenario where you did not change your decision.
 
-Do you still think your chance is 50% when two doors left? I am sorry. Run the simulation and see your results. You are gonna have a hard time believing this.
+- By typing anything other than 1, 2 or 3 at the first part, you can finish the simulation and see your results.
+
+Do you still think your chance is 50% when two doors left? I am sorry. Run the simulation and try. You are gonna have a hard time believing this.
 
 ![2021-09-24 14-06-33](https://user-images.githubusercontent.com/85064536/134665369-24fc608f-02aa-4ede-81d4-fa6ac95d06d2.gif)
 
