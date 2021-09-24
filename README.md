@@ -1,6 +1,6 @@
-## Monty Hall Problem Simulation
+# Monty Hall Problem Simulation
 
-# How to play?
+## How to play?
 
 There will be 3 doors in the simulation. Behind the two doors there will be a goat, behind the one door there will be a car. You will try to choose the car by deciding the door that you want to choose. 
 
@@ -13,7 +13,7 @@ Do you still think your chance is 50% when two doors left? I am sorry. Run the s
 
 ![2021-09-24 14-06-33](https://user-images.githubusercontent.com/85064536/134665369-24fc608f-02aa-4ede-81d4-fa6ac95d06d2.gif)
 
-# Explanation 
+## Explanation 
 
 The Monty Hall problem is a brain teaser, in the form of a probability puzzle, loosely based on the American television game show Let's Make a Deal and named after its original host, Monty Hall. The problem was originally posed (and solved) in a letter by Steve Selvin to the American Statistician in 1975. It became famous as a question from reader Craig F. Whitaker's letter quoted in Marilyn vos Savant's "Ask Marilyn" column in Parade magazine in 1990:
 
