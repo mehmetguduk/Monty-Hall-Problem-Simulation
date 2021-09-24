@@ -3,6 +3,16 @@ from time import sleep
 from os import system, name
 
 
+def clear():
+    if name == 'nt':
+        _ = system('cls')
+    else:
+        _ = system('clear')
+
+        
+clear()
+    
+   
 try:
     print("\n")
     print(" Slow  -  Fast ".center(100,"*"))
@@ -13,13 +23,6 @@ try:
         raise ValueError
 except ValueError:
     game_speed = 1
-
-
-def clear():
-    if name == 'nt':
-        _ = system('cls')
-    else:
-        _ = system('clear')
 
 
 game_count = 1
